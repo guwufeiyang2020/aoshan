@@ -1,0 +1,823 @@
+.qycloud {
+  font-family: "qycloud" !important;
+  font-size: 20px;
+  line-height: 45px;
+  color: #fff;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.qycloud:before {
+  text-align: center;
+}
+
+.qy-work_order_item:before {
+  content: "\e785";
+}
+
+.qy-work_type:before {
+  content: "\e786";
+}
+
+.qy-account:before {
+  content: "\e787";
+}
+
+.qy-action_list_componen:before {
+  content: "\e788";
+}
+
+.qy-announcement:before {
+  content: "\e789";
+}
+
+.qy-answer_best:before {
+  content: "\e78a";
+}
+
+.qy-address:before {
+  content: "\e78b";
+}
+
+.qy-approval:before {
+  content: "\e78c";
+}
+
+.qy-answer_public:before {
+  content: "\e78d";
+}
+
+.qy-answer_private:before {
+  content: "\e78e";
+}
+
+.qy-apps_admin:before {
+  content: "\e78f";
+}
+
+.qy-apps:before {
+  content: "\e790";
+}
+
+.qy-asset_relationship:before {
+  content: "\e791";
+}
+
+.qy-article:before {
+  content: "\e792";
+}
+
+.qy-avatar:before {
+  content: "\e793";
+}
+
+.qy-assigned_resource:before {
+  content: "\e794";
+}
+
+.qy-avatar_loading:before {
+  content: "\e795";
+}
+
+.qy-bot:before {
+  content: "\e796";
+}
+
+.qy-business_hours:before {
+  content: "\e797";
+}
+
+.qy-call:before {
+  content: "\e798";
+}
+
+.qy-call_history:before {
+  content: "\e799";
+}
+
+.qy-campaign_members:before {
+  content: "\e79a";
+}
+
+.qy-canvas:before {
+  content: "\e79c";
+}
+
+.qy-channel_programs:before {
+  content: "\e79d";
+}
+
+.qy-carousel:before {
+  content: "\e79e";
+}
+
+.qy-case:before {
+  content: "\e79f";
+}
+
+.qy-case_change_status:before {
+  content: "\e7a0";
+}
+
+.qy-case_comment:before {
+  content: "\e7a1";
+}
+
+.qy-case_email:before {
+  content: "\e7a2";
+}
+
+.qy-calibration:before {
+  content: "\e7a5";
+}
+
+.qy-case_transcript:before {
+  content: "\e7a6";
+}
+
+.qy-channel_program_hist:before {
+  content: "\e7a7";
+}
+
+.qy-channel_program_leve:before {
+  content: "\e7a8";
+}
+
+.qy-cms:before {
+  content: "\e7a9";
+}
+
+.qy-channel_program_memb:before {
+  content: "\e7aa";
+}
+
+.qy-client:before {
+  content: "\e7ab";
+}
+
+.qy-coaching:before {
+  content: "\e7ac";
+}
+
+.qy-connected_apps:before {
+  content: "\e7ad";
+}
+
+.qy-contact:before {
+  content: "\e7ae";
+}
+
+.qy-contract_line_item:before {
+  content: "\e7af";
+}
+
+.qy-contact_list:before {
+  content: "\e7b0";
+}
+
+.qy-custom:before {
+  content: "\e7b1";
+}
+
+.qy-contract:before {
+  content: "\e7b2";
+}
+
+.qy-custom_notification:before {
+  content: "\e7b3";
+}
+
+.qy-customers:before {
+  content: "\e7b4";
+}
+
+.qy-event:before {
+  content: "\e7b5";
+}
+
+.qy-dashboard:before {
+  content: "\e7b6";
+}
+
+.qy-data_integration_hub:before {
+  content: "\e7b7";
+}
+
+.qy-default:before {
+  content: "\e7b8";
+}
+
+.qy-datadotcom:before {
+  content: "\e7b9";
+}
+
+.qy-document:before {
+  content: "\e7ba";
+}
+
+.qy-drafts:before {
+  content: "\e7bb";
+}
+
+.qy-email_chatter:before {
+  content: "\e7bd";
+}
+
+.qy-empty:before {
+  content: "\e7be";
+}
+
+.qy-endorsement:before {
+  content: "\e7bf";
+}
+
+.qy-entitlement:before {
+  content: "\e7c0";
+}
+
+.qy-entitlement_template:before {
+  content: "\e7c2";
+}
+
+.qy-environment_hub:before {
+  content: "\e7c4";
+}
+
+.qy-feed:before {
+  content: "\e7c6";
+}
+
+.qy-feedback:before {
+  content: "\e7c7";
+}
+
+.qy-file:before {
+  content: "\e7c8";
+}
+
+.qy-forecasts:before {
+  content: "\e7ca";
+}
+
+.qy-flow:before {
+  content: "\e7cb";
+}
+
+.qy-goals:before {
+  content: "\e7cc";
+}
+
+.qy-group_loading:before {
+  content: "\e7cd";
+}
+
+.qy-generic_loading:before {
+  content: "\e7ce";
+}
+
+.qy-home:before {
+  content: "\e7cf";
+}
+
+.qy-hierarchy:before {
+  content: "\e7d0";
+}
+
+.qy-groups:before {
+  content: "\e7d1";
+}
+
+.qy-individual:before {
+  content: "\e7d2";
+}
+
+.qy-household:before {
+  content: "\e7d3";
+}
+
+.qy-investment_account:before {
+  content: "\e7d4";
+  background: #CC9933;
+}
+
+.qy-lead:before {
+  content: "\e7d7";
+}
+
+.qy-knowledge:before {
+  content: "\e7d8";
+}
+
+.qy-link:before {
+  content: "\e7da";
+}
+
+.qy-list_email:before {
+  content: "\e7db";
+}
+
+.qy-live_chat:before {
+  content: "\e7dc";
+}
+
+.qy-live_chat_visitor:before {
+  content: "\e7dd";
+}
+
+.qy-log_a_call:before {
+  content: "\e7e0";
+}
+
+.qy-lead_list:before {
+  content: "\e7e1";
+}
+
+.qy-maintenance_asset:before {
+  content: "\e7e3";
+}
+
+.qy-maintenance_plan:before {
+  content: "\e7e4";
+}
+
+.qy-marketing_actions:before {
+  content: "\e7e5";
+}
+
+.qy-merge:before {
+  content: "\e7e6";
+}
+
+.qy-metrics:before {
+  content: "\e7ea";
+}
+
+.qy-note:before {
+  content: "\e7ec";
+}
+
+.qy-omni_supervisor:before {
+  content: "\e7ed";
+}
+
+.qy-orders:before {
+  content: "\e7f1";
+}
+
+.qy-partner_fund_request:before {
+  content: "\e7f3";
+}
+
+.qy-partners:before {
+  content: "\e7f6";
+}
+
+.qy-people:before {
+  content: "\e7f8";
+}
+
+.qy-performance:before {
+  content: "\e7f9";
+}
+
+.qy-poll:before {
+  content: "\e7fb";
+}
+
+.qy-person_account:before {
+  content: "\e7fd";
+}
+
+.qy-pricebook:before {
+  content: "\e7ff";
+}
+
+.qy-product_item:before {
+  content: "\e801";
+}
+
+.qy-product_transfer:before {
+  content: "\e807";
+}
+
+.qy-product_required:before {
+  content: "\e808";
+}
+
+.qy-question_best:before {
+  content: "\e809";
+}
+
+.qy-recent:before {
+  content: "\e810";
+}
+
+.qy-read_receipts:before {
+  content: "\e811";
+}
+
+.qy-report:before {
+  content: "\e814";
+}
+
+.qy-record:before {
+  content: "\e819";
+}
+
+.qy-reward:before {
+  content: "\e81c";
+}
+
+.qy-search:before {
+  content: "\e820";
+}
+
+.qy-service_contract:before {
+  content: "\e821";
+}
+
+.qy-service_appointment:before {
+  content: "\e822";
+}
+
+.qy-service_crew_member:before {
+  content: "\e823";
+}
+
+.qy-service_crew:before {
+  content: "\e824";
+}
+
+.qy-service_resource:before {
+  content: "\e826";
+}
+
+.qy-service_territory_lo:before {
+  content: "\e828";
+}
+
+.qy-shipment:before {
+  content: "\e82a";
+}
+
+.qy-skill:before {
+  content: "\e82c";
+}
+
+.qy-skill_requirement:before {
+  content: "\e82d";
+}
+
+.qy-social:before {
+  content: "\e82e";
+}
+
+.qy-task:before {
+  content: "\e834";
+}
+
+.qy-team_member:before {
+  content: "\e836";
+}
+
+.qy-topic:before {
+  content: "\e83c";
+}
+
+.qy-timesheet:before {
+  content: "\e83f";
+}
+
+.qy-user:before {
+  content: "\e840";
+}
+
+.qy-work_order:before {
+  content: "\e841";
+}
+
+.qy-custom2:before {
+  content: "\e842";
+}
+
+.qy-custom5:before {
+  content: "\e845";
+}
+
+.qy-custom1:before {
+  content: "\e848";
+}
+
+.qy-custom9:before {
+  content: "\e84b";
+}
+
+.qy-custom11:before {
+  content: "\e84c";
+}
+
+.qy-custom15:before {
+  content: "\e850";
+}
+
+.qy-custom17:before {
+  content: "\e852";
+}
+
+.qy-custom19:before {
+  content: "\e854";
+
+}
+
+.qy-custom21:before {
+  content: "\e855";
+}
+
+.qy-custom30:before {
+  content: "\e860";
+}
+
+.qy-custom43:before {
+  content: "\e86c";
+}
+
+.qy-custom71:before {
+  content: "\e876";
+}
+
+.qy-custom55:before {
+  content: "\e879";
+}
+
+.qy-custom60:before {
+  content: "\e87e";
+}
+
+.qy-custom62:before {
+  content: "\e880";
+}
+
+.qy-custom65:before {
+  content: "\e882";
+}
+
+.qy-custom67:before {
+  content: "\e885";
+}
+
+.qy-custom74:before {
+  content: "\e88a";
+}
+
+.qy-custom82:before {
+  content: "\e894";
+}
+
+.qy-custom88:before {
+  content: "\e89a";
+}
+
+.qy-custom90:before {
+  content: "\e89c";
+}
+
+.qy-custom91:before {
+  content: "\e89d";
+}
+
+.qy-custom93:before {
+  content: "\e89f";
+}
+
+.qy-custom94:before {
+  content: "\e8a1";
+}
+
+.qy-custom98:before {
+  content: "\e8a6";
+}
+
+.qy-custom101:before {
+  content: "\e8a7";
+}
+
+.qy-custom102:before {
+  content: "\e8a8";
+}
+
+.qy-custom103:before {
+  content: "\e8a9";
+}
+
+.qy-custom108:before {
+  content: "\e8ae";
+}
+
+.qy-custom110:before {
+  content: "\e8af";
+}
+
+.qy-custom111:before {
+  content: "\e8b0";
+}
+
+.qy-custom112:before {
+  content: "\e8b1";
+}
+
+.qy-custom113:before {
+  content: "\e8b2";
+}
+
+.qy-earth:before {
+  content: "\e8b3";
+}
+
+.qy-saoyisao:before {
+  content: "\e888";
+}
+
+.qy-souyisou:before {
+  content: "\e889";
+}
+
+.qy-gongzuoquan:before {
+  content: "\e88b";
+}
+
+.qy-basis-:before {
+  content: "\e88c";
+}
+
+.qy-basis-1:before {
+  content: "\e88d";
+}
+
+.qy-basis-2:before {
+  content: "\e88e";
+}
+
+.qy-basis-3:before {
+  content: "\e88f";
+}
+
+.qy-basis-4:before {
+  content: "\e890";
+}
+
+.qy-basis-5:before {
+  content: "\e891";
+}
+
+.qy-basis-6:before {
+  content: "\e892";
+}
+
+.qy-basis-7:before {
+  content: "\e893";
+}
+
+.qy-basis-8:before {
+  content: "\e895";
+}
+
+.qy-basis-9:before {
+  content: "\e896";
+}
+
+.qy-business-:before {
+  content: "\e897";
+}
+
+.qy-business-1:before {
+  content: "\e898";
+}
+
+.qy-basis-10:before {
+  content: "\e899";
+}
+
+.qy-business-2:before {
+  content: "\e89b";
+}
+
+.qy-business-3:before {
+  content: "\e89e";
+}
+
+.qy-business-4:before {
+  content: "\e8a0";
+}
+
+.qy-business-5:before {
+  content: "\e8a2";
+}
+
+.qy-business-6:before {
+  content: "\e8a3";
+}
+
+.qy-business-7:before {
+  content: "\e8a4";
+}
+
+.qy-business-8:before {
+  content: "\e8a5";
+}
+
+.qy-business-9:before {
+  content: "\e8aa";
+}
+
+.qy-business-10:before {
+  content: "\e8ab";
+}
+
+.qy-business-11:before {
+  content: "\e8ac";
+}
+
+.qy-basis-11:before {
+  content: "\e8ad";
+}
+
+.qy-business-12:before {
+  content: "\e8b4";
+}
+
+.qy-business-13:before {
+  content: "\e8b5";
+}
+
+.qy-business-14:before {
+  content: "\e8b6";
+}
+
+.qy-business-15:before {
+  content: "\e8b7";
+}
+
+.qy-business-16:before {
+  content: "\e8b8";
+}
+
+.qy-business-17:before {
+  content: "\e8b9";
+}
+
+.qy-business-18:before {
+  content: "\e8ba";
+}
+
+.qy-business-19:before {
+  content: "\e8bb";
+}
+
+.qy-business-20:before {
+  content: "\e8bc";
+}
+
+.qy-business-21:before {
+  content: "\e8bd";
+}
+
+.qy-business-22:before {
+  content: "\e8be";
+}
+
+.qy-business-23:before {
+  content: "\e8bf";
+}
+
+.qy-business-24:before {
+  content: "\e8c0";
+}
+
+.qy-business-25:before {
+  content: "\e8c1";
+}
+
+.qy-business-26:before {
+  content: "\e8c2";
+}
+
+.qy-business-27:before {
+  content: "\e8c3";
+}
+
+.qy-business-28:before {
+  content: "\e8c4";
+}
+
+.qy-basis-12:before {
+  content: "\e8c5";
+}
+
+.qy-custom100:before {
+  content: "\e6e3";
+}
+
+.qy-renlianshibie:before {
+  content: "\e8c6";
+}
